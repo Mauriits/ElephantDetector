@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Elephant detector.iml" filepath="$PROJECT_DIR$/.idea/Elephant detector.iml" />
+      <module fileurl="file://C:/Users/Maurits.DESKTOP-5VD4S73/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/cv2.pyd" filepath="C:/Users/Maurits.DESKTOP-5VD4S73/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/cv2.pyd" />
+    </modules>
+  </component>
+</project>
